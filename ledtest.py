@@ -1,7 +1,7 @@
 import RPI.GPIO as GPIO
 
-red = 20
-white = 21
+red = 21
+white = 20
 
 GPIO.setmode(GPIO.BCM)
 
