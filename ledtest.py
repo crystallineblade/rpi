@@ -1,4 +1,4 @@
-import RPI.GPIO as GPIO
+import rpi.gpio as GPIO
 
 red = 21
 white = 20
