@@ -1,4 +1,5 @@
 import RPi.GPIO as GPIO
+import time
 
 red = 21
 white = 20
